@@ -103,7 +103,7 @@
 
 HM-10 센서를 사용하여 사용자의 어플과 BLE 통신을 하며 데이터를 통신한다.
 
-(IoT 모듈 사진 첨부 예정)
+&emsp; <img src="images/27.회로.jpg" width="380" height="50%"/> <img src="images/28.실착.jpg" width="380" height="50%"/><br>
 
 ### 수면 측정
 
